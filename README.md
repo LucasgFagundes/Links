@@ -1,4 +1,4 @@
-<h1 align="center"> Lucas Links </h1>
+<h1 align="center"> Pedro Barbosa </h1>
 
 <p align="center">
 Primeiro projeto de Links executado para iniciação em Front-End. <br/>
